@@ -55,7 +55,7 @@ Some text, a [strife] and even more text.
 ```
 
 Will show up as:
-![Custom BBCode display](https://i.imgur.com/iybaxn6.png)
+![Custom BBCode display](https://i.imgur.com/IyBaxn6.png)
 
 ### React
 
