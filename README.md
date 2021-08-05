@@ -46,15 +46,16 @@ To use them as a font, see https://www.nucreum.com/l5r/#four
 ```
 
 Afterward, writing something like:
-[code]
+
+```
 [success]
 [size=200][opportunity][/size]
 [color=#FF0000][explosion][/color]
 Some text, a [strife] and even more text.
-[/code]
+```
 
 Will show up as:
-![Custom BBCode display][https://i.imgur.com/iybaxn6.png]
+![Custom BBCode display](https://i.imgur.com/iybaxn6.png)
 
 ### React
 
